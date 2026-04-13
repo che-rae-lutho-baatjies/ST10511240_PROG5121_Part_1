@@ -1,4 +1,4 @@
-# Chat Application - Pat 1 
+# Chat Application - Part 1 
 ## Student Information
 -Name: Che-Rae 
 - Student Number : ST10511240
